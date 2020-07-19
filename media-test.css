@@ -1,0 +1,317 @@
+@media (max-width: 1440px) {
+  .slider {
+    width: 107%;
+  }
+  .cards {
+    width: 106%;
+  }
+}
+
+@media (max-width: 1240px) {
+  .slider {
+    width: 108%;
+  }
+  .st_text {
+    margin-left: 350px;
+  }
+  .sl {
+    height: 955px;
+  }
+  .stage {
+    width: 400px !important;
+    margin-left: 19%;
+  }
+  .cards {
+    width: 108%;
+  }
+  .mp {
+    width: 106%;
+  }
+  .map-txt2 {
+    margin-left: 117px;
+  }
+  .map__email {
+    margin-left: 54.5% !important;
+  }
+  .map-p {
+  }
+  .map-txt4 {
+    padding-left: 0% !important;
+  }
+  .main2 {
+    width: 108%;
+  }
+}
+
+@media (max-width: 1024px) {
+  .slider {
+    width: 113.1%;
+  }
+  .st_text {
+    margin-left: 240px;
+  }
+  .cards {
+    width: 113.1%;
+  }
+  .mp {
+    width: 111.6%;
+  }
+  .map-p {
+    font-size: 20px;
+    width: auto;
+  }
+  .map {
+    margin-left: 2.5%;
+    width: 500px;
+  }
+}
+
+@media (max-width: 991px) {
+  .slider {
+    width: 117%;
+  }
+  .main2 {
+    width: 109%;
+  }
+  .sl {
+    height: auto;
+  }
+  .txts-f {
+    padding-left: 26%;
+    padding-right: 6%;
+  }
+  .st_text {
+    padding-top: 215px;
+    margin-left: 283px;
+  }
+  .stage {
+    width: 350px;
+    margin-left: 26%;
+  }
+  .stages2 {
+    margin-left: 100px;
+  }
+  .cards {
+    width: 117%;
+  }
+  .mp {
+    width: 115%;
+  }
+  .map-p {
+    margin-left: 53px;
+  }
+  .map {
+    width: 400px;
+    height: 300px;
+  }
+  .map__email {
+    margin-left: 49.5%;
+    height: 300px;
+  }
+}
+
+@media (max-width: 768px) {
+  .section-first {
+    margin-top: 15%;
+    width: 114%;
+    height: 200px;
+  }
+  .section-second {
+    width: 153%;
+  }
+  .nav-item {
+    opacity: 0 !important;
+  }
+  .dr2 {
+    font-size: 36px;
+  }
+  .dr3 {
+    font-size: 26px;
+  }
+  .sl {
+    height: auto;
+  }
+  .txts-f {
+    padding-left: 7%;
+    width: 1000px;
+  }
+  .dr1 {
+    margin-left: 5px;
+    width: 350px;
+    font-size: 20px;
+  }
+  .icons {
+    margin-left: 479px;
+    margin-top: -55px;
+  }
+  .st_text {
+    margin-left: 0;
+    padding-top: 207px;
+  }
+  .slider {
+    width: 168%;
+  }
+  .stages2 {
+    margin-left: 290px;
+    margin-top: -101px;
+  }
+  .stage {
+    width: 428px !important;
+    margin-left: 8%;
+  }
+  .cards {
+    width: 168%;
+  }
+  .mp {
+    width: 165%;
+  }
+  .map__email {
+    margin-left: 70.5% !important;
+    margin-top: 0px !important;
+  }
+  .map {
+    margin-left: 8.5%;
+    width: 386px;
+  }
+  .map-txt {
+    padding-left: 63%;
+  }
+  .map-txt2 {
+    margin-left: 0px;
+  }
+  .map-txt4 {
+    padding-left: 16% !important;
+  }
+}
+
+@media (max-width: 425px) {
+  .slider {
+    width: 249%;
+  }
+  .cards {
+    width: 249%;
+  }
+  .card-text {
+    font-size: 26px;
+  }
+  .card-title {
+    font-size: 30px;
+  }
+  .mp {
+    width: 245.7%;
+  }
+  .map-txt2 {
+    font-size: 41px;
+  }
+  .map-p {
+    font-size: 33px;
+    width: 1000px;
+  }
+  .map-txt {
+    padding-left: 38%;
+  }
+  .map-txt4 {
+    padding-left: 38% !important;
+  }
+  .map__email {
+    margin-left: 67.5% !important;
+    margin-top: 338px !important;
+  }
+  .map {
+    margin-left: 66.5%;
+    width: 599px;
+  }
+}
+
+@media (max-width: 375px) {
+  .section-first {
+    margin-top: 35%;
+    width: 178%;
+    height: 203px;
+  }
+  .section-second {
+    width: 219%;
+  }
+  .one-card {
+    margin-right: 70px;
+  }
+  .slider {
+    width: 331%;
+  }
+  .txts-f {
+    padding-left: 0%;
+    padding-right: 6%;
+    width: 1000px;
+  }
+  .fa {
+    font-size: 33px !important;
+  }
+  .icons {
+    margin-left: 740px;
+    margin-top: -115px;
+  }
+  .dr1 {
+    margin-left: -87px;
+    width: 499px;
+    font-size: 29px;
+    margin-top: -51px;
+  }
+  .dr2 {
+    font-size: 35px;
+  }
+  .dr3 {
+    font-size: 40px;
+  }
+  .st_text {
+    margin-left: -81px;
+    padding-top: 323px;
+    font-size: 56px !important;
+    width: 700px;
+  }
+  .cards {
+    width: 290%;
+  }
+  .mp {
+    width: 286%;
+  }
+  .map-txt {
+    font-size: 34px;
+    width: 700px;
+    padding-left: 26%;
+  }
+  .map-txt2 {
+    font-size: 51px;
+  }
+  .map-txt4 {
+    font-size: 37px;
+    margin-left: -114px;
+  }
+  .l-img {
+    margin-top: -29px;
+  }
+  .sl {
+    height: auto;
+  }
+  .map {
+    width: 500px;
+    margin-left: 79.5%;
+  }
+  .map__email {
+    margin-top: 345px !important;
+  }
+}
+
+@media (max-width: 321px) {
+  .slider {
+    width: 330%;
+  }
+  .cards {
+    width: 331%;
+  }
+  .card-text {
+    font-size: 33px;
+  }
+  .mp {
+    width: 326%;
+  }
+}

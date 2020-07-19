@@ -1,0 +1,54 @@
+
+.main2{
+	margin-top: 10% !important;
+	background-image: url(imgs/cont-bg.jpg);
+	background-attachment: fixed;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover; 
+}
+
+.name-txt{
+	font-family: "Roboto", sans-serif;
+	font-weight: bolder;
+	margin-left: 40%;
+	font-size: 30px;
+	color: #fff;
+}
+
+.cont-name{
+	text-align: center;
+	padding-top: 65px;
+	padding-right: 100%;
+	padding-bottom: 35px;
+	padding-left: 45%;
+	font-size: 25px;
+	font-family: "Roboto", sans-serif;
+	font-weight: 900;
+	background-attachment: fixed;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 160px;
+}
+
+.c1{
+	background-image: url(imgs/v-bg.jpg); }
+.c2{
+	background-image: url(imgs/m-bg.jpg);
+}
+.c3{
+	background-image: url(imgs/fb-b.png);
+}
+.c4{
+	background-image: url(imgs/yt-bg.jpg);
+}
+.c5{
+	background-image: url(imgs/inst-bg.jpg);
+}
+.c6{
+	background-image: url(imgs/tg-b.png);
+}
+.c7{
+	background-image: url(imgs/w-bg.png);
+}
