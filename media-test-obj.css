@@ -1,0 +1,540 @@
+@media (max-width: 1440px) {
+  .slider {
+    width: 107%;
+  }
+  .cards {
+    width: 106%;
+  }
+  .stages2 {
+    margin-top: -140px;
+    margin-left: 56px;
+  }
+}
+
+@media (max-width: 1240px) {
+  .slider {
+    width: 108%;
+  }
+  .st_text {
+    margin-left: 350px;
+  }
+  .sl {
+    height: 955px;
+  }
+  .stage {
+    width: 400px !important;
+    margin-left: 19%;
+  }
+  .cards {
+    width: 108%;
+  }
+  .mp {
+    width: 106%;
+  }
+  .map-txt2 {
+    margin-left: 117px;
+  }
+  .map__email {
+    margin-left: 54.5% !important;
+  }
+  .map-p {
+    font-weight: 500;
+    margin-left: 23px;
+  }
+  .map-txt4 {
+    padding-left: 0% !important;
+  }
+  .main2 {
+    width: 108%;
+  }
+}
+
+@media (max-width: 1024px) {
+  .slider {
+    width: 113.1%;
+  }
+  .st_text {
+    margin-left: 240px;
+  }
+  .cards {
+    width: 113.1%;
+  }
+  .mp {
+    width: 111.6%;
+  }
+  .map-p {
+    font-size: 20px;
+    width: auto;
+  }
+  .map {
+    margin-left: 2.5%;
+    width: 500px;
+  }
+  .txts-f {
+    margin-left: 69px;
+  }
+  .section-first {
+    width: 119%;
+    padding-left: 17% !important;
+  }
+  .section-second {
+    width: 119%;
+  }
+  .second-name {
+    margin-left: 18%;
+  }
+  .main-name {
+    margin-left: 190px;
+  }
+}
+
+@media (max-width: 991px) {
+  .slider {
+    width: 117%;
+  }
+  .main2 {
+    width: 109%;
+  }
+  .sl {
+    height: auto;
+  }
+  .txts-f {
+    padding-left: 26%;
+    padding-right: 6%;
+  }
+  .st_text {
+    padding-top: 215px;
+    margin-left: 283px;
+  }
+  .stages2 {
+    margin-left: 100px;
+  }
+  .cards {
+    width: 117%;
+  }
+  .mp {
+    width: 115%;
+  }
+  .map-p {
+    margin-left: 53px;
+  }
+  .map {
+    width: 400px;
+    height: 300px;
+  }
+  .map__email {
+    margin-left: 49.5%;
+    height: 300px;
+  }
+}
+
+@media (max-width: 426px) {
+  .menu__btn {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    left: 95%;
+    top: 3%;
+    width: 26px;
+    height: 26px;
+    cursor: pointer;
+    z-index: 1000;
+  }
+  .section-second {
+    width: 374%;
+  }
+  .section-first {
+    margin-top: 39%;
+  }
+  .second-name {
+    margin-left: 48%;
+    font-size: 3rem;
+    width: 2000px;
+  }
+  .names {
+    margin-top: -99px;
+  }
+  .back-link {
+    font-size: 3rem;
+    margin-top: 14px;
+  }
+  .subname {
+    font-size: 3rem !important;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+  .main-name {
+    margin-left: 502px;
+    width: 1000px;
+    font-size: 4rem;
+  }
+  .one-card {
+    width: 550px !important;
+    height: 260px;
+  }
+  #menu__toggle:checked ~ .menu__box {
+    visibility: visible;
+    left: 77%;
+  }
+  .menu__item {
+    font-size: 31px;
+  }
+  .slider {
+    width: 271%;
+  }
+  .stages2 {
+    margin-top: 38px;
+    margin-left: 65px;
+    width: 900px;
+  }
+  .st_text {
+    margin-left: 200px;
+    width: 700px;
+    font-size: 55px;
+  }
+  .dr2 {
+    font-size: 53px;
+  }
+  .dr3 {
+    font-size: 45px;
+  }
+  .navs-a {
+    margin-left: -532px;
+  }
+  .l-img {
+    margin-top: -24px;
+  }
+  .cards {
+    width: 271%;
+  }
+  .card-text {
+    font-size: 26px;
+  }
+  .card-title {
+    font-size: 30px;
+  }
+  .mp {
+    width: 270.7%;
+  }
+  .map-txt2 {
+    font-size: 41px;
+  }
+  .map-p {
+    font-size: 33px;
+    width: 1000px;
+  }
+  .map-txt {
+    padding-left: 38%;
+  }
+  .map-txt4 {
+    padding-left: 38% !important;
+  }
+  .map__email {
+    margin-left: 67.5% !important;
+    margin-top: 338px !important;
+  }
+  .map {
+    margin-left: 66.5%;
+    width: 599px;
+  }
+  .dr1 {
+    margin-left: -12px;
+    width: 517px;
+    font-size: 31px;
+    margin-top: -63px;
+  }
+  .icons {
+    margin-left: -87px;
+    margin-top: -47px;
+  }
+  .card {
+    width: 405px !important;
+    margin-left: 31%;
+    margin-top: 7%;
+  }
+  .card-img-top {
+    width: 404px !important;
+    height: 373px;
+  }
+  .fa {
+    font-size: 33px !important;
+  }
+  .map__email-heading {
+    font-size: 2.5rem;
+  }
+  .form-control {
+    font-size: 2rem !important;
+  }
+
+  .map-txt {
+    font-size: 42px;
+    width: 700px;
+    padding-left: 26%;
+  }
+  .map-txt2 {
+    font-size: 51px;
+  }
+  .map-txt4 {
+    font-size: 42px;
+    margin-left: -90px;
+  }
+  .mp {
+    height: 1200px;
+  }
+  .map {
+    width: 872px;
+    margin-left: 44.5%;
+  }
+  .btn {
+    font-size: 2rem !important;
+  }
+  .map__email {
+    margin-top: 345px !important;
+    width: 872px;
+    margin-left: 44.5% !important;
+    height: 400px;
+  }
+  .stage {
+    margin-left: 17%;
+  }
+  .photo-gallery {
+    padding-left: 41px;
+  }
+}
+
+@media (max-width: 375px) {
+  .section-first {
+    margin-top: 35%;
+    width: 178%;
+    height: 203px;
+  }
+
+  .menu__btn {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    left: 93%;
+    top: 6%;
+    width: 26px;
+    height: 26px;
+    cursor: pointer;
+    z-index: 1000;
+  }
+  .menu__btn > span,
+  .menu__btn > span::before,
+  .menu__btn > span::after {
+    display: block;
+    position: absolute;
+    width: 105%;
+    height: 4px;
+    background-color: #616161;
+    transition-duration: 0.25s;
+  }
+
+  .section-second {
+    width: 367%;
+    margin-top: 18px;
+  }
+  .names {
+    margin-top: -3px;
+  }
+  .second-name {
+    margin-left: 23%;
+  }
+  .all-cards {
+    margin-left: 9%;
+  }
+  .main-name {
+    margin-left: 285px;
+  }
+  .one-card {
+    margin-right: 70px;
+  }
+  .slider {
+    width: 331%;
+  }
+  .txts-f {
+    padding-left: 51%;
+    padding-right: 0%;
+    width: 1000px;
+  }
+  .fa {
+    font-size: 45px !important;
+  }
+  .icons {
+    margin-left: -70px;
+    margin-top: -92px;
+  }
+  .dr1 {
+    margin-left: 248px;
+    width: 1000px;
+    font-size: 43px;
+    margin-top: -128px;
+  }
+  .stages2 {
+    margin-left: 115px;
+    width: 900px;
+  }
+  .dr2 {
+    font-size: 62px;
+  }
+  .dr3 {
+    font-size: 50px;
+  }
+  .header {
+    height: 130px !important;
+  }
+  .st_text {
+    margin-left: 158px;
+    padding-top: 323px;
+    font-size: 63px !important;
+    width: 700px;
+  }
+  .cards {
+    width: 331%;
+  }
+  .card {
+    width: 405px !important;
+    margin-left: 40%;
+    margin-top: 7%;
+  }
+  .wrkrs {
+    font-size: 5rem;
+  }
+  .card-img-top {
+    width: 404px !important;
+    height: 373px;
+  }
+  .card-title {
+    font-size: 44px;
+  }
+  .mp {
+    width: 327%;
+    height: 1200px;
+  }
+  .map__email-heading {
+    font-size: 2.5rem;
+  }
+  .form-control {
+    font-size: 2rem !important;
+  }
+
+  .map-txt {
+    font-size: 42px;
+    width: 700px;
+    padding-left: 26%;
+  }
+  .map-txt2 {
+    font-size: 51px;
+  }
+  .map-txt4 {
+    font-size: 42px;
+    margin-left: -90px;
+  }
+  .l-img {
+    margin-top: -14px;
+    width: 631px;
+    margin-left: -151px;
+  }
+  .sl {
+    height: auto;
+  }
+  .map {
+    width: 872px;
+    margin-left: 44.5%;
+  }
+  .btn {
+    font-size: 2rem !important;
+  }
+  .map__email {
+    margin-top: 345px !important;
+    width: 872px;
+    margin-left: 44.5% !important;
+    height: 400px;
+  }
+  .stages2 {
+    margin-top: 29px;
+  }
+  .card-text {
+    font-size: 36px;
+  }
+  .stage {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 368px) {
+  .slider {
+    width: 330%;
+  }
+  .icons {
+    margin-left: 133px;
+  }
+  .cards {
+    width: 331%;
+  }
+  .card {
+    margin-left: 12%;
+  }
+  .card-text {
+    font-size: 33px;
+  }
+  .mp {
+    width: 326%;
+  }
+  .l-img {
+    margin-top: -14px;
+    width: 491px;
+    margin-left: -125px;
+  }
+  .txts-f {
+    padding-left: 0%;
+    margin-left: 105px;
+  }
+  .stages2 {
+    margin-left: 106px;
+    width: 900px;
+    margin-top: -59px;
+  }
+  .map-txt {
+    padding-left: 24%;
+  }
+}
+
+@media (max-width: 321px) {
+  .slider {
+    width: 330%;
+  }
+  .icons {
+    margin-left: 16px;
+  }
+  .cards {
+    width: 331%;
+  }
+  .card {
+    margin-left: 12%;
+  }
+  .card-text {
+    font-size: 33px;
+  }
+  .mp {
+    width: 326%;
+  }
+  .l-img {
+    margin-top: -8px;
+    width: 479px;
+    margin-left: -125px;
+  }
+  .txts-f {
+    padding-left: 0%;
+    margin-left: 33px;
+  }
+  .stages2 {
+    margin-left: 21px;
+    width: 900px;
+    margin-top: -59px;
+  }
+  .map-txt {
+    padding-left: 24%;
+  }
+}

@@ -46,7 +46,7 @@ html{
   padding-right: 30px;
   padding-top: 89px;
   margin-top: -77px;
-  margin-left: -399px;
+  margin-left: -411px;
 }
 
 .header{
@@ -174,12 +174,12 @@ a:hover{
 
 .dr2{
   font-weight: 800;
-  font-size: 25px;
+  font-size: 31px;
 }
 
 .dr3{
   font-weight: 800;
-  font-size: 20px;
+  font-size: 24px;
   margin-top: -9px;
 }
 
@@ -303,7 +303,7 @@ a:hover{
 
 .stages2{
   margin-top: -140px;
-  margin-left: 84px;
+  margin-left: 163px;
 }
 
 .lang{
@@ -329,7 +329,7 @@ a:hover{
   margin-top: 13px;
   border-radius: 2%;
   width: 145%;
-  margin-left: 57px;
+  margin-left: 15px;
   padding-left: 0;
   width: 100%;
 }
@@ -557,7 +557,7 @@ a:hover{
 }
 
 .map{
-    margin-left: 4.5%;
+    margin-left: 9.5%;
     border: 5px solid #CFD8DC; 
     border-radius: 2%;
     position: absolute;
@@ -619,7 +619,7 @@ a:hover{
   width: 600px;
   height: 400px;
   position: absolute;
-  margin-left: 49.5% !important;
+  margin-left: 58.5% !important;
   margin-top: 0 !important;
   background-color: #F2F2E5;
 }

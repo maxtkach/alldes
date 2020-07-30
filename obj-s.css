@@ -1,173 +1,162 @@
-body{
-	font-family: 'Roboto', sans-serif;
+body {
+  font-family: "Roboto", sans-serif;
 }
 
-
-.obj-main{
-
+.obj-main {
 }
 
-
-.back{
-	font-size: 20px;
-    font-weight: 600;
-    margin-left: 3%;
-    opacity: 80%;
-    transition: all 0.5s;
-    margin-left: -210px;
+.back {
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 3%;
+  opacity: 80%;
+  transition: all 0.5s;
+  margin-left: -210px;
 }
 
-.back:hover{
-	opacity: 100%;
+.back:hover {
+  opacity: 100%;
 }
 
-
-
-.back-link{
-	margin-top: 170px;
-	position: absolute;
-	margin-left: 10px;
-	transition: all 0.5s;
+.back-link {
+  margin-top: 170px;
+  position: absolute;
+  margin-left: 10px;
+  transition: all 0.5s;
 }
 
-.section-first{
-	padding-left: 15%;
-	background-color: #F0F6F4;
-	padding-top: 170px;
-	transition: all 0.5s;
+.section-first {
+  padding-left: 15%;
+  background-color: #f0f6f4;
+  padding-top: 170px;
+  transition: all 0.5s;
 }
 
+.subname {
+  font-size: 1rem;
+  font-weight: 300;
+  text-transform: uppercase;
+}
 
-.subname{
-	font-size: 1rem;
+@media (max-width: 426px) {
+  .subname {
+    font-size: 3rem;
     font-weight: 300;
     text-transform: uppercase;
+  }
 }
 
-.name{
-    font-size: 2.5rem;
-    font-weight: 700;
+.name {
+  font-size: 2.5rem;
+  font-weight: 700;
 }
 
-.dir{
-
+.dir {
 }
 
-.dir-link{
-	opacity: 80%;
-	letter-spacing: 0.07em;
-	transition: all 0.5s;
+.dir-link {
+  opacity: 80%;
+  letter-spacing: 0.07em;
+  transition: all 0.5s;
 }
 
-.dir-link:hover{
-	letter-spacing: 0;
+.dir-link:hover {
+  letter-spacing: 0;
 }
 
-.dir-p{
-
+.dir-p {
 }
 
-.icons{
-	font-size: 20px;
+.icons {
+  font-size: 20px;
 }
 
-
-.section-second{
-	background-color: #DAE4E5;
-
+.section-second {
+  background-color: #dae4e5;
 }
 
-.details{
-	padding-left: 15%;
-	padding-top: 40px;
-	width: 500px;
+.details {
+  padding-left: 15%;
+  padding-top: 40px;
+  width: 500px;
 }
 
-.main-name{
-    font-size: 1.2rem;
-    font-weight: 700;
-    margin-bottom: 20px;
+.main-name {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 20px;
 }
 
-.sub-det{
-	margin-bottom: 10px;
+.sub-det {
+  margin-bottom: 10px;
 }
 
-.det-name{
-	opacity: 90%;
-
+.det-name {
+  opacity: 90%;
 }
 
-.det{
-	font-weight: 600;
-
+.det {
+  font-weight: 600;
 }
 
-.description{
-	padding-top: 40px;
-
+.description {
+  padding-top: 40px;
 }
 
-.desc-name{
-	font-size: 1.2rem;
-    font-weight: 700;
-    margin-bottom: 20px;
-
+.desc-name {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 20px;
 }
 
-.desc-subdesc{
-
+.desc-subdesc {
 }
 
-.photo-gallery{
-	padding-top: 40px;
-	padding-left: 120px;
+.photo-gallery {
+  padding-top: 40px;
+  padding-left: 83px;
 }
 
-.video-gallery{
-	padding-top: 40px;
-	padding-right: 20px;
+.video-gallery {
+  padding-top: 40px;
+  padding-right: 20px;
 }
 
-.gal-name{
-	font-size: 1.2rem;
-    font-weight: 700;
-    margin-bottom: 30px;
-    padding-left: 25px;
-    text-decoration:underline !important; 
-    color: #212529 !important;
+.gal-name {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 30px;
+  padding-left: 25px;
+  text-decoration: underline !important;
+  color: #212529 !important;
 }
 
-.gal-name:hover{
-	text-decoration: underline !important;
+.gal-name:hover {
+  text-decoration: underline !important;
 }
 
-.section-third{
-	background-color:#B7D4FF;
-	height: 700px;
-
+.section-third {
+  background-color: #b7d4ff;
+  height: 700px;
 }
 
-.place-txt{
-	padding-top: 15px;
-	margin-left: 30%;
-	font-size: 2rem;
-    font-weight: 300;
+.place-txt {
+  padding-top: 15px;
+  margin-left: 30%;
+  font-size: 2rem;
+  font-weight: 300;
 }
 
-.palace-map{
-	width: 100%;
-	padding-right: 20px;
-	padding-left: 20px;
-	padding-top: 20px;
-	height: 600px;
+.palace-map {
+  width: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  height: 600px;
 }
 
-.prev-p{
-    width: 200px;
-    height: 100px;
-    margin-left: -13px;
+.prev-p {
+  width: 200px;
+  height: 100px;
+  margin-left: -13px;
 }
-
-
-

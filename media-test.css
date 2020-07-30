@@ -5,6 +5,10 @@
   .cards {
     width: 106%;
   }
+  .stages2 {
+    margin-top: -140px;
+    margin-left: 56px;
+  }
 }
 
 @media (max-width: 1240px) {
@@ -34,6 +38,8 @@
     margin-left: 54.5% !important;
   }
   .map-p {
+    font-weight: 500;
+    margin-left: 23px;
   }
   .map-txt4 {
     padding-left: 0% !important;
@@ -64,6 +70,21 @@
     margin-left: 2.5%;
     width: 500px;
   }
+  .txts-f {
+    margin-left: 69px;
+  }
+  .section-first {
+    width: 80%;
+  }
+  .section-second {
+    width: 119%;
+  }
+  .second-name {
+    margin-left: 18%;
+  }
+  .main-name {
+    margin-left: 190px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -83,10 +104,6 @@
   .st_text {
     padding-top: 215px;
     margin-left: 283px;
-  }
-  .stage {
-    width: 350px;
-    margin-left: 26%;
   }
   .stages2 {
     margin-left: 100px;
@@ -110,11 +127,24 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 910px) {
   .section-first {
     margin-top: 15%;
     width: 114%;
     height: 200px;
+  }
+  .stages2 {
+    margin-top: 38px;
+    margin-left: 65px;
+    width: 900px;
+  }
+  .st_text {
+    margin-left: 200px;
+    width: 700px;
+    font-size: 55px;
+  }
+  .hamburger-menu {
+    opacity: 1;
   }
   .section-second {
     width: 153%;
@@ -132,8 +162,8 @@
     height: auto;
   }
   .txts-f {
-    padding-left: 7%;
-    width: 1000px;
+    padding-left: 18%;
+    width: 1083px;
   }
   .dr1 {
     margin-left: 5px;
@@ -152,12 +182,8 @@
     width: 168%;
   }
   .stages2 {
-    margin-left: 290px;
+    margin-left: 391px;
     margin-top: -101px;
-  }
-  .stage {
-    width: 428px !important;
-    margin-left: 8%;
   }
   .cards {
     width: 168%;
@@ -166,30 +192,380 @@
     width: 165%;
   }
   .map__email {
-    margin-left: 70.5% !important;
+    margin-left: 87.5% !important;
     margin-top: 0px !important;
   }
   .map {
     margin-left: 8.5%;
-    width: 386px;
+    width: 557px;
   }
   .map-txt {
-    padding-left: 63%;
+    padding-left: 36%;
   }
   .map-txt2 {
     margin-left: 0px;
   }
   .map-txt4 {
-    padding-left: 16% !important;
+    padding-left: 0% !important;
+  }
+  .stage {
+    margin-left: -28%;
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
+  #menu__toggle:checked ~ .menu__box {
+    visibility: visible;
+    left: 80%;
+  }
+  .section-first {
+    margin-top: 15%;
+    width: 114%;
+    height: 200px;
+  }
+  .stages2 {
+    margin-top: 38px;
+    margin-left: 65px;
+    width: 900px;
+  }
+  .st_text {
+    margin-left: 200px;
+    width: 700px;
+    font-size: 55px;
+  }
+  .hamburger-menu {
+    opacity: 1;
+  }
+  .section-second {
+    width: 153%;
+  }
+  .nav-item {
+    opacity: 0 !important;
+  }
+  .dr2 {
+    font-size: 36px;
+  }
+  .dr3 {
+    font-size: 26px;
+  }
+  .sl {
+    height: auto;
+  }
+  .txts-f {
+    padding-left: 18%;
+    width: 1083px;
+  }
+  .dr1 {
+    margin-left: 5px;
+    width: 350px;
+    font-size: 20px;
+  }
+  .icons {
+    margin-left: 479px;
+    margin-top: -55px;
+  }
+  .st_text {
+    margin-left: 0;
+    padding-top: 207px;
+  }
   .slider {
-    width: 249%;
+    width: 168%;
+  }
+  .stages2 {
+    margin-left: 391px;
+    margin-top: -101px;
   }
   .cards {
-    width: 249%;
+    width: 168%;
+  }
+  .mp {
+    width: 165%;
+  }
+  .map__email {
+    margin-left: 87.5% !important;
+    margin-top: 0px !important;
+  }
+  .map {
+    margin-left: 8.5%;
+    width: 557px;
+  }
+  .map-txt {
+    padding-left: 36%;
+  }
+  .map-txt2 {
+    margin-left: 0px;
+  }
+  .map-txt4 {
+    padding-left: 0% !important;
+  }
+  .stage {
+    margin-left: -28%;
+  }
+  .section-second {
+    width: 157%;
+  }
+  .second-name {
+    font-size: 21px;
+  }
+  .main-name {
+    font-size: 3rem;
+  }
+  .names {
+    margin-left: 30%;
+    width: 100%;
+    margin-top: -41px;
+  }
+}
+
+@media (max-width: 710px) {
+  .section-first {
+    margin-top: 15%;
+    width: 114%;
+    height: 200px;
+  }
+  .stages2 {
+    margin-top: 38px;
+    margin-left: 65px;
+    width: 900px;
+  }
+  .st_text {
+    margin-left: 200px;
+    width: 700px;
+    font-size: 55px;
+  }
+  .hamburger-menu {
+    opacity: 1;
+  }
+  .section-second {
+    width: 153%;
+  }
+  .nav-item {
+    opacity: 0 !important;
+  }
+  .dr2 {
+    font-size: 36px;
+  }
+  .dr3 {
+    font-size: 26px;
+  }
+  .sl {
+    height: auto;
+  }
+  .txts-f {
+    padding-left: 18%;
+    width: 1083px;
+  }
+  .dr1 {
+    margin-left: 5px;
+    width: 350px;
+    font-size: 20px;
+  }
+  .icons {
+    margin-left: 479px;
+    margin-top: -55px;
+  }
+  .st_text {
+    margin-left: 0;
+    padding-top: 207px;
+  }
+  .slider {
+    width: 184%;
+  }
+  .stages2 {
+    margin-left: 391px;
+    margin-top: -101px;
+  }
+  .cards {
+    width: 184%;
+  }
+  .mp {
+    width: 165%;
+  }
+  .map__email {
+    margin-left: 87.5% !important;
+    margin-top: 0px !important;
+  }
+  .map {
+    margin-left: 8.5%;
+    width: 557px;
+  }
+  .map-txt {
+    padding-left: 36%;
+  }
+  .map-txt2 {
+    margin-left: 0px;
+  }
+  .map-txt4 {
+    padding-left: 0% !important;
+  }
+  .stage {
+    margin-left: -28%;
+  }
+}
+
+@media (max-width: 670px) {
+  .section-first {
+    margin-top: 15%;
+    width: 114%;
+    height: 200px;
+  }
+  .stages2 {
+    margin-top: 38px;
+    margin-left: 65px;
+    width: 900px;
+  }
+  .st_text {
+    margin-left: 200px;
+    width: 700px;
+    font-size: 55px;
+  }
+  .hamburger-menu {
+    opacity: 1;
+  }
+  .section-second {
+    width: 153%;
+  }
+  .nav-item {
+    opacity: 0 !important;
+  }
+  .dr2 {
+    font-size: 36px;
+  }
+  .dr3 {
+    font-size: 26px;
+  }
+  .sl {
+    height: auto;
+  }
+  .txts-f {
+    padding-left: 18%;
+    width: 1083px;
+  }
+  .dr1 {
+    margin-left: 5px;
+    width: 350px;
+    font-size: 20px;
+  }
+  .icons {
+    margin-left: 479px;
+    margin-top: -55px;
+  }
+  .st_text {
+    margin-left: 0;
+    padding-top: 207px;
+  }
+  .slider {
+    width: 200%;
+  }
+  .stages2 {
+    margin-left: 391px;
+    margin-top: -101px;
+  }
+  .cards {
+    width: 184%;
+  }
+  .mp {
+    width: 165%;
+  }
+  .map__email {
+    margin-left: 87.5% !important;
+    margin-top: 0px !important;
+  }
+  .map {
+    margin-left: 8.5%;
+    width: 557px;
+  }
+  .map-txt {
+    padding-left: 36%;
+  }
+  .map-txt2 {
+    margin-left: 0px;
+  }
+  .map-txt4 {
+    padding-left: 0% !important;
+  }
+  .stage {
+    margin-left: -28%;
+  }
+}
+
+@media (max-width: 426px) {
+  .menu__btn {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    left: 95%;
+    top: 3%;
+    width: 26px;
+    height: 26px;
+    cursor: pointer;
+    z-index: 1000;
+  }
+  .section-second {
+    width: 374%;
+  }
+  .section-first {
+    margin-top: 39%;
+  }
+  .second-name {
+    margin-left: 48%;
+    font-size: 3rem;
+    width: 2000px;
+  }
+  .names {
+    margin-top: -99px;
+  }
+  .back-link {
+    font-size: 3rem;
+    margin-top: 14px;
+  }
+  .name {
+    font-weight: 500;
+    font-size: 4rem;
+  }
+  .main-name {
+    margin-left: 502px;
+    width: 1000px;
+    font-size: 4rem;
+  }
+  .one-card {
+    width: 550px !important;
+    height: 260px;
+  }
+  #menu__toggle:checked ~ .menu__box {
+    visibility: visible;
+    left: 77%;
+  }
+  .menu__item {
+    font-size: 31px;
+  }
+  .slider {
+    width: 271%;
+  }
+  .stages2 {
+    margin-top: 38px;
+    margin-left: 65px;
+    width: 900px;
+  }
+  .st_text {
+    margin-left: 200px;
+    width: 700px;
+    font-size: 55px;
+  }
+  .dr2 {
+    font-size: 53px;
+  }
+  .dr3 {
+    font-size: 45px;
+  }
+  .navs-a {
+    margin-left: -532px;
+  }
+  .l-img {
+    margin-top: -24px;
+  }
+  .cards {
+    width: 271%;
   }
   .card-text {
     font-size: 26px;
@@ -198,7 +574,7 @@
     font-size: 30px;
   }
   .mp {
-    width: 245.7%;
+    width: 270.7%;
   }
   .map-txt2 {
     font-size: 41px;
@@ -221,6 +597,66 @@
     margin-left: 66.5%;
     width: 599px;
   }
+  .dr1 {
+    margin-left: -12px;
+    width: 517px;
+    font-size: 31px;
+    margin-top: -63px;
+  }
+  .icons {
+    margin-left: -87px;
+    margin-top: -47px;
+  }
+  .card {
+    width: 405px !important;
+    margin-left: 31%;
+    margin-top: 7%;
+  }
+  .card-img-top {
+    width: 404px !important;
+    height: 373px;
+  }
+  .fa {
+    font-size: 33px !important;
+  }
+  .map__email-heading {
+    font-size: 2.5rem;
+  }
+  .form-control {
+    font-size: 2rem !important;
+  }
+
+  .map-txt {
+    font-size: 42px;
+    width: 700px;
+    padding-left: 26%;
+  }
+  .map-txt2 {
+    font-size: 51px;
+  }
+  .map-txt4 {
+    font-size: 42px;
+    margin-left: -90px;
+  }
+  .mp {
+    height: 1200px;
+  }
+  .map {
+    width: 872px;
+    margin-left: 44.5%;
+  }
+  .btn {
+    font-size: 2rem !important;
+  }
+  .map__email {
+    margin-top: 345px !important;
+    width: 872px;
+    margin-left: 44.5% !important;
+    height: 400px;
+  }
+  .stage {
+    margin-left: 17%;
+  }
 }
 
 @media (max-width: 375px) {
@@ -229,8 +665,44 @@
     width: 178%;
     height: 203px;
   }
+
+  .menu__btn {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    left: 93%;
+    top: 6%;
+    width: 26px;
+    height: 26px;
+    cursor: pointer;
+    z-index: 1000;
+  }
+  .menu__btn > span,
+  .menu__btn > span::before,
+  .menu__btn > span::after {
+    display: block;
+    position: absolute;
+    width: 105%;
+    height: 4px;
+    background-color: #616161;
+    transition-duration: 0.25s;
+  }
+
   .section-second {
-    width: 219%;
+    width: 367%;
+    margin-top: 18px;
+  }
+  .names {
+    margin-top: -3px;
+  }
+  .second-name {
+    margin-left: 23%;
+  }
+  .all-cards {
+    margin-left: 9%;
+  }
+  .main-name {
+    margin-left: 285px;
   }
   .one-card {
     margin-right: 70px;
@@ -239,43 +711,73 @@
     width: 331%;
   }
   .txts-f {
-    padding-left: 0%;
-    padding-right: 6%;
+    padding-left: 51%;
+    padding-right: 0%;
     width: 1000px;
   }
   .fa {
-    font-size: 33px !important;
+    font-size: 45px !important;
   }
   .icons {
-    margin-left: 740px;
-    margin-top: -115px;
+    margin-left: -70px;
+    margin-top: -92px;
   }
   .dr1 {
-    margin-left: -87px;
-    width: 499px;
-    font-size: 29px;
-    margin-top: -51px;
+    margin-left: 248px;
+    width: 1000px;
+    font-size: 43px;
+    margin-top: -128px;
+  }
+  .stages2 {
+    margin-left: 115px;
+    width: 900px;
   }
   .dr2 {
-    font-size: 35px;
+    font-size: 62px;
   }
   .dr3 {
-    font-size: 40px;
+    font-size: 50px;
+  }
+  .header {
+    height: 130px !important;
   }
   .st_text {
-    margin-left: -81px;
+    margin-left: 158px;
     padding-top: 323px;
-    font-size: 56px !important;
+    font-size: 63px !important;
     width: 700px;
   }
   .cards {
-    width: 290%;
+    width: 331%;
+  }
+  .card {
+    width: 405px !important;
+    margin-left: 40%;
+    margin-top: 7%;
+  }
+  .wrkrs {
+    font-size: 5rem;
+  }
+  .card-img-top {
+    width: 404px !important;
+    height: 373px;
+  }
+  .card-title {
+    font-size: 44px;
   }
   .mp {
-    width: 286%;
+    width: 327%;
+    height: 1200px;
   }
+  .map__email-heading {
+    font-size: 2.5rem;
+  }
+  .form-control {
+    font-size: 2rem !important;
+  }
+
   .map-txt {
-    font-size: 34px;
+    font-size: 42px;
     width: 700px;
     padding-left: 26%;
   }
@@ -283,21 +785,76 @@
     font-size: 51px;
   }
   .map-txt4 {
-    font-size: 37px;
-    margin-left: -114px;
+    font-size: 42px;
+    margin-left: -90px;
   }
   .l-img {
-    margin-top: -29px;
+    margin-top: -14px;
+    width: 631px;
+    margin-left: -151px;
   }
   .sl {
     height: auto;
   }
   .map {
-    width: 500px;
-    margin-left: 79.5%;
+    width: 872px;
+    margin-left: 44.5%;
+  }
+  .btn {
+    font-size: 2rem !important;
   }
   .map__email {
     margin-top: 345px !important;
+    width: 872px;
+    margin-left: 44.5% !important;
+    height: 400px;
+  }
+  .stages2 {
+    margin-top: 29px;
+  }
+  .card-text {
+    font-size: 36px;
+  }
+  .stage {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 368px) {
+  .slider {
+    width: 330%;
+  }
+  .icons {
+    margin-left: 133px;
+  }
+  .cards {
+    width: 331%;
+  }
+  .card {
+    margin-left: 12%;
+  }
+  .card-text {
+    font-size: 33px;
+  }
+  .mp {
+    width: 326%;
+  }
+  .l-img {
+    margin-top: -14px;
+    width: 491px;
+    margin-left: -125px;
+  }
+  .txts-f {
+    padding-left: 0%;
+    margin-left: 105px;
+  }
+  .stages2 {
+    margin-left: 106px;
+    width: 900px;
+    margin-top: -59px;
+  }
+  .map-txt {
+    padding-left: 24%;
   }
 }
 
@@ -305,13 +862,36 @@
   .slider {
     width: 330%;
   }
+  .icons {
+    margin-left: 16px;
+  }
   .cards {
     width: 331%;
+  }
+  .card {
+    margin-left: 12%;
   }
   .card-text {
     font-size: 33px;
   }
   .mp {
     width: 326%;
+  }
+  .l-img {
+    margin-top: -8px;
+    width: 479px;
+    margin-left: -125px;
+  }
+  .txts-f {
+    padding-left: 0%;
+    margin-left: 33px;
+  }
+  .stages2 {
+    margin-left: 21px;
+    width: 900px;
+    margin-top: -59px;
+  }
+  .map-txt {
+    padding-left: 24%;
   }
 }
